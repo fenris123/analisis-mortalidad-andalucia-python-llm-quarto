@@ -143,3 +143,13 @@ Demostrar la integración de ingeniería de datos, análisis estadístico, visua
 La generación del informe en PDF mediante Quarto puede presentar problemas si el proyecto se ejecuta desde ubicaciones en red o dispositivos externos (como una NAS). En estos casos, el renderizado del archivo `.qmd` a PDF puede fallar debido a dependencias de rutas, permisos o gestión de archivos temporales.
 
 Se recomienda ejecutar el proyecto desde el sistema de archivos local del equipo (disco interno del ordenador) para garantizar la correcta generación del informe final en PDF.
+
+## Aviso sobre el uso de los datos
+
+Los datos utilizados en este proyecto provienen del Sistema Nacional de Salud (SNS) a través del portal de indicadores de salud disponible en:
+https://inclasns.sanidad.gob.es/main.html
+
+El uso, redistribución y tratamiento de estos datos está sujeto a los términos y condiciones establecidos por el propio organismo responsable. Se recomienda consultar dichas condiciones antes de reutilizar este proyecto o los datos en entornos distintos al análisis personal o académico.
+
+Términos de uso oficiales:
+https://inclasns.sanidad.gob.es/terms
